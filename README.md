@@ -1,5 +1,9 @@
 # react-rust-wasm 
 Proyecto de prueba aprovechando las sinergias de estas tres tecnologías
+Es un tutorial para crear una app React con Rust y WebAssembly
+
+Basado en este tutorial.
+https://tkat0.github.io/posts/how-to-create-a-react-app-with-rust-and-wasm
 
 # Getting Started with Create React App
 
