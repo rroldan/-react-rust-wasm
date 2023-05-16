@@ -1,5 +1,6 @@
 # react-rust-wasm 
-Proyecto de prueba aprovechando las sinergias de estas tres tecnologías
+Proyecto de prueba aprovechando las sinergias de estas tres tecnologías.
+
 Es un tutorial para crear una app React con Rust y WebAssembly
 
 Basado en este tutorial.
